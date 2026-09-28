@@ -9,7 +9,6 @@ La bibliothèque des Acacias a ouvert ses portes en 1974 dans une ancienne écol
 Elle fait partie du réseau des bibliothèques municipales : votre carte d'inscription est valable dans toutes les bibliothèques du réseau.
 
 ## L'équipe
-
 Six personnes vous accueillent :
 
 - **Nadia**, responsable de la bibliothèque ;
@@ -34,7 +33,7 @@ Tram 15, arrêt « Acacias » ; bus 11, arrêt « Bibliothèque ». Un parking �
 
 ## Contact
 
-- Téléphone : 022 000 00 00 (aux heures d'ouverture)
+- Téléphone : 022 000 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 (aux heures d'ouverture)
 - Courriel : bibliotheque@acacias.example
 - Par courrier : à l'adresse ci-dessus
 
